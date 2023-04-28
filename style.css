@@ -58,7 +58,7 @@ body * {
 /*switch */
 #switch {
   position: relative;
-  Width: 64px;
+  width: 64px;
   margin: 4px auto;
 }
 
@@ -83,8 +83,8 @@ body * {
 
 #switch span {
   display: block;
-  Width: 64px;
-  Height: 24px;
+  width: 64px;
+  height: 24px;
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
   backdrop-filter: blur(4px);
@@ -123,7 +123,6 @@ ul li a {
   transition: background 0.2s;
 }
 
-/*pseudo-selector*/
 ul li a:hover {
   background: var(--surface-color-hover);
   border: 1.5px solid var(--text-color);
