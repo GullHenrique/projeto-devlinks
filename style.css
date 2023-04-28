@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 
-/* pseudo raiz pode ser o html*/
 :root {
   --text-color: white;
   --bg-url: url(./assets/bg-mobile.jpg);
